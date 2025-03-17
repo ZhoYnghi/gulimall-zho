@@ -20,5 +20,6 @@ buildNumber.properties
 **/HELP.md
 **/*.iml
 **/.gitignore
+**/LICENSE
 
 .idea
